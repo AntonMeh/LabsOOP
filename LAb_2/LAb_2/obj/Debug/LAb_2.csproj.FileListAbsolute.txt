@@ -1,0 +1,7 @@
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\LAb_2\LAb_2\bin\Debug\LAb_2.exe.config
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\LAb_2\LAb_2\bin\Debug\LAb_2.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\LAb_2\LAb_2\bin\Debug\LAb_2.pdb
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\LAb_2\LAb_2\obj\Debug\LAb_2.csproj.AssemblyReference.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\LAb_2\LAb_2\obj\Debug\LAb_2.csproj.CoreCompileInputs.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\LAb_2\LAb_2\obj\Debug\LAb_2.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\LAb_2\LAb_2\obj\Debug\LAb_2.pdb
