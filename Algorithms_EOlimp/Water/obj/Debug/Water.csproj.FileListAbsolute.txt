@@ -1,0 +1,7 @@
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\Water\bin\Debug\Water.exe.config
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\Water\bin\Debug\Water.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\Water\bin\Debug\Water.pdb
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\Water\obj\Debug\Water.csproj.AssemblyReference.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\Water\obj\Debug\Water.csproj.CoreCompileInputs.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\Water\obj\Debug\Water.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\Water\obj\Debug\Water.pdb

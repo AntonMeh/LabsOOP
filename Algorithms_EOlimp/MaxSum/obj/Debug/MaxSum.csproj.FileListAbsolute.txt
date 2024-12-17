@@ -1,0 +1,7 @@
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\MaxSum\bin\Debug\MaxSum.exe.config
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\MaxSum\bin\Debug\MaxSum.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\MaxSum\bin\Debug\MaxSum.pdb
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\MaxSum\obj\Debug\MaxSum.csproj.AssemblyReference.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\MaxSum\obj\Debug\MaxSum.csproj.CoreCompileInputs.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\MaxSum\obj\Debug\MaxSum.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\MaxSum\obj\Debug\MaxSum.pdb

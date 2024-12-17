@@ -1,0 +1,7 @@
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\Bankomat\bin\Debug\Bankomat.exe.config
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\Bankomat\bin\Debug\Bankomat.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\Bankomat\bin\Debug\Bankomat.pdb
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\Bankomat\obj\Debug\Bankomat.csproj.AssemblyReference.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\Bankomat\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\Bankomat\obj\Debug\Bankomat.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\Bankomat\obj\Debug\Bankomat.pdb

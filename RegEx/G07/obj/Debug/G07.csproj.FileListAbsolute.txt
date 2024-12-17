@@ -1,0 +1,7 @@
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\G07\bin\Debug\G07.exe.config
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\G07\bin\Debug\G07.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\G07\bin\Debug\G07.pdb
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\G07\obj\Debug\G07.csproj.AssemblyReference.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\G07\obj\Debug\G07.csproj.CoreCompileInputs.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\G07\obj\Debug\G07.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\G07\obj\Debug\G07.pdb

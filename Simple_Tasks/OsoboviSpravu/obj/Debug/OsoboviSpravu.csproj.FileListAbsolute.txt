@@ -1,0 +1,7 @@
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\OsoboviSpravu\bin\Debug\OsoboviSpravu.exe.config
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\OsoboviSpravu\bin\Debug\OsoboviSpravu.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\OsoboviSpravu\bin\Debug\OsoboviSpravu.pdb
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\OsoboviSpravu\obj\Debug\OsoboviSpravu.csproj.AssemblyReference.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\OsoboviSpravu\obj\Debug\OsoboviSpravu.csproj.CoreCompileInputs.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\OsoboviSpravu\obj\Debug\OsoboviSpravu.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\OsoboviSpravu\obj\Debug\OsoboviSpravu.pdb

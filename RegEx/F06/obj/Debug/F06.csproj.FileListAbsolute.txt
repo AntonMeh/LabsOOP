@@ -1,0 +1,7 @@
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\F06\bin\Debug\F06.exe.config
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\F06\bin\Debug\F06.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\F06\bin\Debug\F06.pdb
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\F06\obj\Debug\F06.csproj.AssemblyReference.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\F06\obj\Debug\F06.csproj.CoreCompileInputs.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\F06\obj\Debug\F06.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\F06\obj\Debug\F06.pdb

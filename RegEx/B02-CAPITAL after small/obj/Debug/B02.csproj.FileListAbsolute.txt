@@ -1,0 +1,7 @@
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\B02-CAPITAL after small\bin\Debug\B02-CAPITAL after small.exe.config
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\B02-CAPITAL after small\bin\Debug\B02-CAPITAL after small.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\B02-CAPITAL after small\bin\Debug\B02-CAPITAL after small.pdb
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\B02-CAPITAL after small\obj\Debug\B02.csproj.AssemblyReference.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\B02-CAPITAL after small\obj\Debug\B02.csproj.CoreCompileInputs.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\B02-CAPITAL after small\obj\Debug\B02-CAPITAL after small.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\B02-CAPITAL after small\obj\Debug\B02-CAPITAL after small.pdb

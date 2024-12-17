@@ -1,0 +1,7 @@
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\P\bin\Debug\P.exe.config
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\P\bin\Debug\P.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\P\bin\Debug\P.pdb
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\P\obj\Debug\P.csproj.AssemblyReference.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\P\obj\Debug\P.csproj.CoreCompileInputs.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\P\obj\Debug\P.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\P\obj\Debug\P.pdb

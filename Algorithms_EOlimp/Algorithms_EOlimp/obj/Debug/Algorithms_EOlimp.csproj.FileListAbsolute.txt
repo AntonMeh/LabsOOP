@@ -1,0 +1,7 @@
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\Algorithms_EOlimp\bin\Debug\Algorithms_EOlimp.exe.config
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\Algorithms_EOlimp\bin\Debug\Algorithms_EOlimp.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\Algorithms_EOlimp\bin\Debug\Algorithms_EOlimp.pdb
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\Algorithms_EOlimp\obj\Debug\Algorithms_EOlimp.csproj.AssemblyReference.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\Algorithms_EOlimp\obj\Debug\Algorithms_EOlimp.csproj.CoreCompileInputs.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\Algorithms_EOlimp\obj\Debug\Algorithms_EOlimp.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Algorithms_EOlimp\Algorithms_EOlimp\obj\Debug\Algorithms_EOlimp.pdb

@@ -1,0 +1,7 @@
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\FIMLI\FIMLI\bin\Debug\FIMLI.exe.config
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\FIMLI\FIMLI\bin\Debug\FIMLI.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\FIMLI\FIMLI\bin\Debug\FIMLI.pdb
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\FIMLI\FIMLI\obj\Debug\FIMLI.csproj.AssemblyReference.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\FIMLI\FIMLI\obj\Debug\FIMLI.csproj.CoreCompileInputs.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\FIMLI\FIMLI\obj\Debug\FIMLI.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\FIMLI\FIMLI\obj\Debug\FIMLI.pdb

@@ -1,0 +1,7 @@
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\Q\obj\Debug\Q.csproj.AssemblyReference.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\Q\obj\Debug\Q.csproj.CoreCompileInputs.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\Q\bin\Debug\Q.exe.config
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\Q\bin\Debug\Q.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\Q\bin\Debug\Q.pdb
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\Q\obj\Debug\Q.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\Q\obj\Debug\Q.pdb

@@ -1,0 +1,7 @@
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\D04\bin\Debug\D04.exe.config
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\D04\bin\Debug\D04.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\D04\bin\Debug\D04.pdb
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\D04\obj\Debug\D04.csproj.AssemblyReference.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\D04\obj\Debug\D04.csproj.CoreCompileInputs.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\D04\obj\Debug\D04.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\RegEx\D04\obj\Debug\D04.pdb

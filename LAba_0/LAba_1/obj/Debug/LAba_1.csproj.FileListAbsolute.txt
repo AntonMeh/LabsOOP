@@ -1,0 +1,14 @@
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\LAba_1\LAba_1\bin\Debug\LAba_1.exe.config
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\LAba_1\LAba_1\bin\Debug\LAba_1.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\LAba_1\LAba_1\bin\Debug\LAba_1.pdb
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\LAba_1\LAba_1\obj\Debug\LAba_1.csproj.AssemblyReference.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\LAba_1\LAba_1\obj\Debug\LAba_1.csproj.CoreCompileInputs.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\LAba_1\LAba_1\obj\Debug\LAba_1.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\LAba_1\LAba_1\obj\Debug\LAba_1.pdb
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\LAba_0\LAba_1\bin\Debug\LAba_1.exe.config
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\LAba_0\LAba_1\bin\Debug\LAba_1.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\LAba_0\LAba_1\bin\Debug\LAba_1.pdb
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\LAba_0\LAba_1\obj\Debug\LAba_1.csproj.AssemblyReference.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\LAba_0\LAba_1\obj\Debug\LAba_1.csproj.CoreCompileInputs.cache
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\LAba_0\LAba_1\obj\Debug\LAba_1.exe
+C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\LAba_0\LAba_1\obj\Debug\LAba_1.pdb
