@@ -1,7 +1,0 @@
-C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\SimpleThasks_Algorithms\H\bin\Debug\H.exe.config
-C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\SimpleThasks_Algorithms\H\bin\Debug\H.exe
-C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\SimpleThasks_Algorithms\H\bin\Debug\H.pdb
-C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\SimpleThasks_Algorithms\H\obj\Debug\H.csproj.AssemblyReference.cache
-C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\SimpleThasks_Algorithms\H\obj\Debug\H.csproj.CoreCompileInputs.cache
-C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\SimpleThasks_Algorithms\H\obj\Debug\H.exe
-C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\SimpleThasks_Algorithms\H\obj\Debug\H.pdb

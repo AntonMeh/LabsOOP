@@ -1,7 +1,0 @@
-C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\SimpleThasks_Algorithms\SimpleThasks_Algorithms\bin\Debug\SimpleThasks_Algorithms.exe.config
-C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\SimpleThasks_Algorithms\SimpleThasks_Algorithms\bin\Debug\SimpleThasks_Algorithms.exe
-C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\SimpleThasks_Algorithms\SimpleThasks_Algorithms\bin\Debug\SimpleThasks_Algorithms.pdb
-C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\SimpleThasks_Algorithms\SimpleThasks_Algorithms\obj\Debug\SimpleThasks_Algorithms.csproj.AssemblyReference.cache
-C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\SimpleThasks_Algorithms\SimpleThasks_Algorithms\obj\Debug\SimpleThasks_Algorithms.csproj.CoreCompileInputs.cache
-C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\SimpleThasks_Algorithms\SimpleThasks_Algorithms\obj\Debug\SimpleThasks_Algorithms.exe
-C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\SimpleThasks_Algorithms\SimpleThasks_Algorithms\obj\Debug\SimpleThasks_Algorithms.pdb
