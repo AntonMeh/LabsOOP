@@ -1,7 +1,0 @@
-C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\G\bin\Debug\G.exe.config
-C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\G\bin\Debug\G.exe
-C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\G\bin\Debug\G.pdb
-C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\G\obj\Debug\G.csproj.AssemblyReference.cache
-C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\G\obj\Debug\G.csproj.CoreCompileInputs.cache
-C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\G\obj\Debug\G.exe
-C:\Users\ameh0\OneDrive\Рабочий стол\купси\C#\2 курс\Simple_Tasks\G\obj\Debug\G.pdb
